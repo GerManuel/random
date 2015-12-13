@@ -1,4 +1,5 @@
 // Math.random() devuelve número aleatorio entre 0 y 1.
+//ejemplo de clonaci'on de random en GitHub
 var numero = Math.random();
 
 var str =' MAYOR que 0,5';
